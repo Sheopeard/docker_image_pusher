@@ -9,3 +9,4 @@ homeassistant/home-assistant:latest
 dreamacro/clash:latest
 linuxserver/qbittorrent:latest
 jellyfin/jellfin:latest
+jeessy/ddns-go
