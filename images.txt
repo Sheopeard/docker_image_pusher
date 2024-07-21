@@ -8,5 +8,5 @@ python:alpine3.19
 homeassistant/home-assistant:latest
 dreamacro/clash:latest
 linuxserver/qbittorrent:latest
-jellyfin/jellfin:latest
+jellyfin/jellyfin:latest
 jeessy/ddns-go
